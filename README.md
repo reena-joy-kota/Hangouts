@@ -1,4 +1,4 @@
-<h2 align="center">✍🏽 # chill_blogsite Blogging APP👨‍💻</h2>
+<h2 align="center">✍🏽 # Hangouts Blogging APP👨‍💻</h2>
 
 <p>This is the blog Website made using Nodejs.</p>
 
@@ -23,9 +23,9 @@ https://user-images.githubusercontent.com/75007299/210325765-68fe8f6c-a25e-4ef9-
 
 
 ## Features 📋
-🔥 User Can add  a post
+🔥 User Can add posts
 🔥 User can read all users posts
-
+🔥 User can delete posts with authentication
 
 
 ## Installation 📦
