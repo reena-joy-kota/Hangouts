@@ -1,2 +1,2 @@
-# chill_blogsite
+# Hangouts_blogsite
 blogging mern stack app
